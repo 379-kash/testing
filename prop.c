@@ -8,7 +8,7 @@ int main(){
 	float area;
 	scanf("please enter the radius %f\n",&r);
 	area=PI*r*r;
-    
+    	printf("good");
 	printf("the area of circle is %0.3f\n",area);
 	return (0);
 }
